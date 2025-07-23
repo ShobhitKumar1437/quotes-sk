@@ -1,0 +1,29 @@
+{
+  "name": "quotes-sk",
+  "version": "4.0.2",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShobhitKumar1437/quotes-sk.git"
+  },
+  "keywords": [
+    "npm",
+    "quotes",
+    "daily-quotes",
+    "npm-package",
+    "motivation",
+    "programming"
+  ],
+  "author": "Shobhit Kumar",
+  "license": "Apache-2.0",
+  "description": "Get 300+ curted quotes instantly - motivational, jokes, programming and more",
+  "bugs": {
+    "url": "https://github.com/ShobhitKumar1437/quotes-sk/issues"
+  },
+  "homepage": "https://github.com/ShobhitKumar1437/quotes-sk#readme"
+}
